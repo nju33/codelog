@@ -26,7 +26,7 @@ module.exports = function codelog(section) {
     }
 
     console.log();
-    console.log(space + chalk.white.underline(` ${name} `));
+    console.log(space + chalk.white.underline(` ${section + ':' + name} `));
     console.log(column);
   }
 }
