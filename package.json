@@ -1,6 +1,6 @@
 {
   "name": "codelog",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Nice code logger",
   "main": "index.js",
   "license": "MIT",
